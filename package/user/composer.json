@@ -1,0 +1,15 @@
+{
+    "name": "dunghedspi/user-package",
+    "authors": [
+        {
+            "name": "Dunghedspi",
+            "email": "dung.nv.soict@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dung\\User\\": "src/"
+        }
+    },
+    "require": {}
+}
